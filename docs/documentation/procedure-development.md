@@ -5,6 +5,11 @@ deprecated: false
 hidden: false
 metadata:
   robots: index
+next:
+  pages:
+    - slug: scrum-methodiek
+      title: Scrum-methodiek
+      type: basic
 ---
 **Inventarisatie & Werkzaamheden bundelen**
 
