@@ -6,6 +6,7 @@ hidden: false
 metadata:
   robots: index
 ---
-De wensen, eisen en benodigde functionaliteiten van de klant (BLR-Bimon) worden geïnventariseerd.
+**Inventarisatie & Werkzaamheden bundelen**
 
-Inventarisatie & Werkzaamhedenbundeling
+* De wensen, eisen en benodigde functionaliteiten van de klant (BLR-Bimon) worden geïnventariseerd.
+* Deze werkzaamheden worden geanalyseerd en gebundeld in een sprint
