@@ -9,4 +9,4 @@ metadata:
 **Inventarisatie & Werkzaamheden bundelen**
 
 * De wensen, eisen en benodigde functionaliteiten van de klant (BLR-Bimon) worden geïnventariseerd.
-* Deze werkzaamheden worden geanalyseerd en gebundeld in een sprint
+* Deze werkzaamheden worden geanalyseerd en gebundeld in een sprint.
